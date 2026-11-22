@@ -89,4 +89,5 @@ http://localhost:8082/h2-console — JDBC URL `jdbc:h2:mem:comptes-db`, utilisat
 
 ## Captures d'écran
 
-[Ajoute ici tes captures : Swagger, Postman, GraphiQL]
+<img width="1862" height="866" alt="image" src="https://github.com/user-attachments/assets/b509d3bf-8585-4bbe-95cb-58216f70dbbc" />
+
