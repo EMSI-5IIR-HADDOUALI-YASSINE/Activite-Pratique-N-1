@@ -1,0 +1,25 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: bank-account-service
+  datasource:
+    url: jdbc:h2:mem:comptes-db
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  data:
+    rest:
+      base-path: /datarest
+  graphql:
+    graphiql:
+      enabled: true
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
