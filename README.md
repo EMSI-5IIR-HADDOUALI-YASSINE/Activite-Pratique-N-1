@@ -1,6 +1,6 @@
 # Micro-service de gestion de comptes bancaires
 
-Activité pratique N°1 — EMSI [filière / année] — [Ton nom et prénom]
+Activité pratique N°1 — EMSI EDSIM-G2 — Haddouali Yassine
 
 Micro-service Spring Boot qui permet de gérer des comptes bancaires. Il expose la même
 fonctionnalité de trois façons : une API REST, une API Spring Data REST et une API GraphQL.
